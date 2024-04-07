@@ -1,4 +1,4 @@
-# TV Show Recommendation Project with TMDB Dataset
+# 🍿🎬 TV Show Recommendation Project with TMDB Dataset
 
 Welcome to our TV show recommendation project! In this project, we utilize the TMDB (The Movie Database) dataset to provide personalized TV show recommendations based on user input. Our recommendation system employs sophisticated content-based filtering techniques to suggest TV shows that are similar to the user's preferences.
 
